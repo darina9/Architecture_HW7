@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.center{
+    padding-left: calc(50% - 600px);
+    padding-right: calc(50% - 600px);
+}
+
+a{
+    text-decoration: none;
+}
+li{
+    list-style-type: none;
+}
+
+.text{
+    color: #070011;
+    font-family: Montserrat, sans-serif;
+    font-size: 12px;
+}
+
+.title{
+    color: #070011;
+    font-family: Montserrat, sans-serif;
+    font-size: 18px;
+}
